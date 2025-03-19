@@ -12,15 +12,16 @@ CudaHostCompiler Value:
 DisablePmeStream Value: false
 DeterministicForces Value: false
 
-Simulation name: sim
-Number of beads: 739, Number of chains: 1
-Potential energy: 17.62595, Kinetic Energy: 179.69213 at temperature: 120.0
+Simulation name: OpenMiChroM
+Number of beads: 2712, Number of chains: 1
+Potential energy: 64.29285, Kinetic Energy: 1.49443 at temperature: 1.0
 
 Potential energy per forceGroup:
-                                 Values
-FENEBond                  15258.044733
-AngleForce                  531.248772
-RepulsiveSoftCore           703.495812
-CustomTypes                -178.224578
-CustomIC                  -3288.989961
-Potential Energy (total)  13025.574777
+                                  Values
+FENEBond                   55318.664162
+AngleForce                     0.989383
+RepulsiveSoftCore              0.000000
+TypetoType                  -222.474259
+IdealChromosome               -1.086155
+FlatBottomHarmonic        119266.123097
+Potential Energy (total)  174362.216227
