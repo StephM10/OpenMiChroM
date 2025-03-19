@@ -137,3 +137,5 @@ tests/AnalysisTools
 tests/AnaTest.ipynb
 OpenMiChroM/AnalysisTools.py
 OpenMiChroM/__pycache__
+Tutorials/Chromosome_Pulling_Tutorial/output_files/initialStats.txt
+Tutorials/Chromosomes_simulations/output_chr10/OpenMiChroM_0.cndb
